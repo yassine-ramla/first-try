@@ -1,2 +1,3 @@
 # first-try
-this is try to learn
+this is my first repo on github
+
